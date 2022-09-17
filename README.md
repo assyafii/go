@@ -1,2 +1,2 @@
-# go
-Learn GO 
+# Description
+This repo just for Learn GO language 
